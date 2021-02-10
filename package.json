@@ -1,6 +1,6 @@
 {
   "name": "@next/with-sentry-source-maps",
-  "version": "1.0.0",
+  "version": "10.0.6",
   "main": "index.js",
   "repository": "https://github.com/kamilogorek/next-sentry-source-maps.git",
   "author": "Kamil Ogórek <kamil.ogorek@gmail.com>",
